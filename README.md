@@ -16,6 +16,8 @@
 
 [Website](https://benchcad.com) · [Leaderboard](LEADERBOARD.md) · [Paper](https://arxiv.org/abs/2605.10865) · [Dataset](https://huggingface.co/datasets/BenchCAD/BenchCAD) · [Contributing](CONTRIBUTING.md)
 
+架构导读（中文）：[BenchCAD 如何评测不同 LLM](docs/ARCHITECTURE.zh-CN.md)
+
 </div>
 
 ---
