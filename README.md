@@ -16,6 +16,8 @@
 
 [Website](https://benchcad.com) · [Leaderboard](LEADERBOARD.md) · [Paper](https://arxiv.org/abs/2605.10865) · [Dataset](https://huggingface.co/datasets/BenchCAD/BenchCAD) · [Contributing](CONTRIBUTING.md)
 
+中文文档：[BenchCAD 项目调研报告](docs/BENCHCAD_RESEARCH_REPORT_ZH.md)
+
 </div>
 
 ---
